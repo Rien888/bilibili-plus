@@ -15,4 +15,4 @@ https://github.com/rien888/bilibili-plus/raw/main/bilibili_plus.qxrewrite, tag=�
 
 或直接复制链接
 
-[https://github.com/rien888/bilibili-plus/raw/main/bilibili_plus.qxrewrite](https://github.com/asjdf/bilibili-plus/raw/main/bilibili_plus.qxrewrite)
+[https://github.com/rien888/bilibili-plus/raw/main/bilibili_plus.qxrewrite](https://github.com/rien888/bilibili-plus/raw/main/bilibili_plus.qxrewrite)
